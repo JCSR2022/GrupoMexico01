@@ -1,0 +1,11 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+# Generated ETL outputs
+output/
+
+# Local business documents and source-only artifacts
+AMC Strategic Sourcing - Business Case (junio 2023).docx
